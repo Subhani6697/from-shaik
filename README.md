@@ -12,3 +12,8 @@ Best Batsmen In Test Cricket
 4. Steven Smith
 5. Harry Brook
 6. RoHIT Sharma
+
+Places where I play Cricket
+* College Cricket Ground
+* Indoor Cricket Practice Court
+* House Backyard
