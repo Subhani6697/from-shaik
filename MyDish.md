@@ -20,5 +20,5 @@ Hyderabad, also known as the City of Nizams is home to many luxury restaurants a
 #### Quotations that I like the most 
 
 > "It's better to be unhappy alone than unhappy with someone." - _Marilyn Monroe_
->
+
 > "Being real is more important than being popular." - _Christie Brinkley_
