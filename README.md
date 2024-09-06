@@ -16,3 +16,12 @@ Places where I play Cricket
 * House Backyard
 
 Hi there!, do you know what's my favorite dish, [click here](MyDish.md) to know more.
+
+---
+
+#### Best Restaurants in Hyderabad
+
+Hyderabad, also known as the City of Nizams is home to many luxury restaurants and shops. The city oozes in grandeur and fine dining is a big part of it. Below table shows famous restaurants in Hyderabad and why they are recommended.
+| Name of the restaurant | Reason for recommending it | Location of the restaurant |
+| ---------------------- | -------------------------- | -------------------------- |
+| Hotel Shadab           | Mutton biriyani is famous dish to try, it is juicy and tender | Ghansi Bazaar |
