@@ -15,4 +15,4 @@ Places where I play Cricket
 * Indoor Cricket Practice Court
 * House Backyard
 
-Here is the [Link](MyDish.md) to My favorite dish
+Hi there!, do you know what's my favorite dish, [click here](MyDish.md) to know more.
