@@ -29,5 +29,7 @@ Hyderabad, also known as the City of Nizams is home to many luxury restaurants a
 
 This Node.js source code helps convert a relative path to an absolute path by replacing the start of the path with the home directory.
 
-``` const path = require("path"); 
-const resolvePath = relativePath => path.resolve(relativePath); ```
+``` 
+const path = require("path"); 
+const resolvePath = relativePath => path.resolve(relativePath);
+```
