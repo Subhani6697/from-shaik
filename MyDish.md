@@ -33,3 +33,4 @@ This Node.js source code helps convert a relative path to an absolute path by re
 const path = require("path"); 
 const resolvePath = relativePath => path.resolve(relativePath);
 ```
+Snippet source: <https://code.pieces.app/collections/node-js>
