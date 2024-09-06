@@ -22,3 +22,12 @@ Hyderabad, also known as the City of Nizams is home to many luxury restaurants a
 > "It's better to be unhappy alone than unhappy with someone." - _Marilyn Monroe_
 
 > "Being real is more important than being popular." - _Christie Brinkley_
+
+---
+
+#### How to Convert a path from relative to absolute path in Node.js
+
+This Node.js source code helps convert a relative path to an absolute path by replacing the start of the path with the home directory.
+
+``` const path = require("path"); 
+const resolvePath = relativePath => path.resolve(relativePath); ```
